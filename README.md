@@ -26,3 +26,7 @@ This repository is in its initial setup phase. Materials will be added progressi
 ## Contact
 
 Website: https://futuredata.gr/
+## Available Resources
+
+- [AI Readiness Checklist for SMEs](./ai-readiness-checklist-for-smes.md)
+- [Data Strategy Starter Map for SMEs](./resources/data-strategy-starter-map-for-smes.md)
