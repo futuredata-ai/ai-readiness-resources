@@ -30,6 +30,7 @@ Website: https://futuredata.gr/
 
 - [AI Readiness Checklist for SMEs](./ai-readiness-checklist-for-smes.md)
 - [Data Strategy Starter Map for SMEs](./resources/data-strategy-starter-map-for-smes.md)
+- [KPI Architecture Starter Note for SMEs](./resources/kpi-architecture-starter-note.md)
 ## Repository Use
 
 This repository is intended as a public knowledge base for AI readiness, data strategy and practical business intelligence planning resources. Materials are added gradually and may be used as general awareness and planning references by professionals, SMEs and organisations.
